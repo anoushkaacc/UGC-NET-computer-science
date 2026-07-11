@@ -4,11 +4,12 @@ A comprehensive collection of study material, handwritten notes, previous year q
 
 The objective of this repository is to provide a structured and freely accessible learning resource that helps aspirants prepare efficiently.
 
-![Subject](https://img.shields.io/badge/Subject-Code%2087-blue?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/anoushkaacc/UGCNET-Computer-Science-and-Applications?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/anoushkaacc/UGCNET-Computer-Science-and-Applications?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/anoushkaacc/UGCNET-Computer-Science-and-Applications?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/anoushkaacc/UGCNET-Computer-Science-and-Applications?style=for-the-badge)
+![Subject](https://img.shields.io/badge/Subject-Code%2087-blue??style=flat)
+[![Visits Badge](https://badges.pufler.dev/visits/anoushkaacc/UGCNET-Computer-Science-and-Applications)](https://badges.pufler.dev/visits/anoushkaacc/UGCNET-Computer-Science-and-Applications)
+![GitHub stars](https://img.shields.io/github/stars/anoushkaacc/UGCNET-Computer-Science-and-Applications??style=flat)
+![GitHub forks](https://img.shields.io/github/forks/anoushkaacc/UGCNET-Computer-Science-and-Applications??style=flat)
+![GitHub issues](https://img.shields.io/github/issues/anoushkaacc/UGCNET-Computer-Science-and-Applications??style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/anoushkaacc/UGCNET-Computer-Science-and-Applications??style=flat)
 
 ---
 
