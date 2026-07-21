@@ -1,6 +1,5 @@
 # UGC NET – Unit 10: Artificial Intelligence (AI)
 
----
 
 ## 1. Approaches to AI
 
