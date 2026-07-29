@@ -17,11 +17,13 @@ The objective of this repository is to provide a structured and freely accessibl
 
 This repository contains organized resources for both **Paper I** and **Paper II** of the UGC NET Computer Science and Applications examination.
 
-| Resource                  | Description                                                                                       | Access                                                                                                             |
-| ------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **UGC NET Syllabus**      | Official syllabus for Paper I and Paper II with complete unit-wise details.                       | [View Syllabus](https://github.com/anoushkaacc/UGCNET-Computer-Science-and-Applications/tree/main/syllabus)        |
+| Resource | Description | Access |
+|----------|-------------|--------|
+| **UGC NET Syllabus** | Official syllabus for Paper I and Paper II with complete unit-wise details. | [View Syllabus](https://github.com/anoushkaacc/UGCNET-Computer-Science-and-Applications/tree/main/syllabus) |
 | **Paper II Cheat Sheets** | Unit-wise concise notes covering important concepts, formulas, algorithms, and revision material. | [Open Cheat Sheets](https://github.com/anoushkaacc/UGCNET-Computer-Science-and-Applications/tree/main/cheatsheets) |
-| **Handwritten Notes**     | Detailed handwritten notes for comprehensive preparation.                                         | *Coming Soon*                                                                                                      |
+| **Previous Year Questions (PYQs)** | Access free year-wise and subject-wise previous year question papers with solutions and exam-style practice. | [GateOverflow](https://gateoverflow.in/previous-years) • [SamagraCS](https://samagracs.com/nta-ugc-net-subject-wise-previous-year-question-with-solutions/) |
+| **Mock Tests** | Practice full-length mock tests and topic-wise test series from popular learning platforms. | Adda247 • JRFAdda • Physics Wallah (PW) • Testbook |
+| **Handwritten Notes** | Detailed handwritten notes for comprehensive preparation. | *Coming Soon* |
 
 ### Paper II Cheat Sheets
 
